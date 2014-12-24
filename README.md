@@ -1,4 +1,4 @@
 android_vendor_samsung_e120l 
 ============================
 
-vendor for e120l
+Vendor for e120l
